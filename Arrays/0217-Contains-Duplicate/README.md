@@ -9,6 +9,7 @@
 - **Language:** Swift
 - **Result:** 初始解法 `Time Limit Exceeded`
 - **Main issue:** 时间复杂度过高
+- **LeetCode: https://leetcode.com/problems/contains-duplicate/
 
 ---
 
