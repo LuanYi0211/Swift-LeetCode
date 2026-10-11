@@ -1,3 +1,4 @@
+// 先查 Dictionary，再把当前数字存进去，这样就不会和自己配对，导致出错
 func twoSum(_ nums: [Int], target: Int) -> (Int, Int)? {
     var dict = [Int: Int]()
     
